@@ -1,4 +1,4 @@
-# Miscallaneous-3
+# Misc-3
 
 ## Problem 1: Capacity to ship packages in d days (https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 
